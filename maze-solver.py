@@ -25,3 +25,4 @@ def bfs_solve(maze, start, goal):
         curr = visited[curr]
     path.reverse()
     return path
+    
