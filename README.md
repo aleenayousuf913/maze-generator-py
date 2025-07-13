@@ -6,3 +6,5 @@ Feautures
 - Maze generation using DFS (recursive backtracking)
 - Maze solving using BFS
 - visualizes the maze and path using matplotlib
+
+This project is licensed under the MIT License. (I'm actually not sure why I have to say this but I see this on Github all the time....)
