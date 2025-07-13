@@ -15,3 +15,4 @@ def draw_maze_with_path(maze, path):
 
     plt.axis('off')
     plt.show()
+
