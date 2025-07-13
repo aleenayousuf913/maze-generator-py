@@ -19,3 +19,4 @@ def generate_maze(maze, x, y):
         if is_valid(nx, ny, maze) and maze[ny][nx] == '#':
             maze[y + dy // 2][x + dx // 2] = ' '  # remove wall
             generate_maze(maze, nx, ny)
+
